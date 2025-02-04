@@ -1,1 +1,1 @@
-Learn the basics of accessing and examining BigQuery datasets
+# Learn SQL from Kaggle 
